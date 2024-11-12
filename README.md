@@ -26,6 +26,7 @@ I'm a versatile backend engineer from Spain with a background in cybersecurity, 
   - **What is Data Science?** by IBM (with Honors)
 
 ### 🔨 Languages and Tools:
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarboullosa&layout=compact&theme=dark)
 - **Programming**: Python, Rust, JavaScript, TypeScript, C++, SQL
 - **Frameworks & Libraries**: React, Angular, FastAPI, Node.js
 - **Tools & Platforms**: Docker, Kubernetes, aiokafka, MongoDB, Git, Jira, SonarQube
