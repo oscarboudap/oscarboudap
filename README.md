@@ -26,7 +26,7 @@ I'm a versatile backend engineer from Spain with a background in cybersecurity, 
   - **What is Data Science?** by IBM (with Honors)
 
 ### 🔨 Languages and Tools:
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarboullosa&layout=compact&theme=dark)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarboudap&layout=compact&theme=dark)
 - **Programming**: Python, Rust, JavaScript, TypeScript, C++, SQL
 - **Frameworks & Libraries**: React, Angular, FastAPI, Node.js
 - **Tools & Platforms**: Docker, Kubernetes, aiokafka, MongoDB, Git, Jira, SonarQube
@@ -37,8 +37,8 @@ I'm a versatile backend engineer from Spain with a background in cybersecurity, 
 - [LinkedIn](https://www.linkedin.com/in/oscar-boullosa/)
 
 ### 📊 My Stats:
-![Oscar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscarboullosa&theme=dark)
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarboullosa&show_icons=true&theme=dark)
+![Oscar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscarboudap&theme=dark)
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarboudap&show_icons=true&theme=dark)
 
 Thank you for visiting my profile! Looking forward to connecting with you!
 
